@@ -32,3 +32,6 @@ On 8th July, a *Nostalgia* post revisits the joy of collecting Coke caps, follow
 
 The calendar concludes with a *Celebration* on 13th July—friends raising a toast to good times with Coca-Cola, wrapping the month on a joyful, brand-affirming note.
 
+#OUTPUT#
+
+(https://github.com/user-attachments/files/20791835/CocaCola_30_Day_Social_Media_Calendar.1.xlsx)
