@@ -57,3 +57,5 @@ To plan and develop a visually engaging and strategically structured 30-day soci
 #OUTPUT
 
 [CocaCola_30_Day_Social_Media_Calendar.1 (1).xlsx](https://github.com/user-attachments/files/20861553/CocaCola_30_Day_Social_Media_Calendar.1.1.xlsx)
+
+![Image](https://github.com/user-attachments/assets/e6cbba9a-a2b5-48dc-8f4e-ae30a55009c6)
