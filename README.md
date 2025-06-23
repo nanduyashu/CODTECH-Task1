@@ -34,4 +34,4 @@ The calendar concludes with a *Celebration* on 13th July—friends raising a toa
 
 #OUTPUT#
 
-[CocaCola_30_Day_Social_Media_Calendar.1 (1) (1).xlsx](https://github.com/user-attachments/files/20860634/CocaCola_30_Day_Social_Media_Calendar.1.1.1.xlsx)
+![Image](https://github.com/user-attachments/assets/784995c9-5204-4f4f-8a16-2f48d88b066f)
