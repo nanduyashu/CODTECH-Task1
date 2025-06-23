@@ -34,4 +34,4 @@ The calendar concludes with a *Celebration* on 13th July—friends raising a toa
 
 #OUTPUT#
 
-![Image](https://github.com/user-attachments/assets/784995c9-5204-4f4f-8a16-2f48d88b066f)
+![Image](https://github.com/user-attachments/assets/4955370c-605a-461a-926f-4883cd7db7d2)
