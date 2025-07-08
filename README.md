@@ -56,3 +56,4 @@ To plan and develop a visually engaging and strategically structured 30-day soci
 
 #OUTPUT
 
+[JUNE.docx](https://github.com/user-attachments/files/21119953/JUNE.docx)
